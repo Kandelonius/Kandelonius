@@ -1,4 +1,4 @@
-img[src*="picture"] {
+img[src*="#picture"] {
     width: 150px;
     height: 200px;
     margin-left: 0;
