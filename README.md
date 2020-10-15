@@ -5,8 +5,3 @@
 
 <!-- <img align="right" src="images/Online-Shane.jpg#picture" alt="My picture" title="Shane" width="150" height="200" /> -->
 
-img[src*="picture"] {
-    width:150px;
-    height:200px;
-    align:right;
-}
