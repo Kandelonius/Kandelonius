@@ -1,4 +1,4 @@
-## Hello, my name is Shane Kaestner 🌇 ![/images/Online-Shane.jpg# picture]
+## Hello, my name is Shane Kaestner 🌇 ![Shane](/images/Online-Shane.jpg# picture)
 
 ### I am a java programmer who is primarily focusing on back-end web development <img src="images/Spring.jpg" alt="spring logo" title="Spring" width="15">
 
