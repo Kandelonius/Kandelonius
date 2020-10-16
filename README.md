@@ -5,7 +5,7 @@
 
 #### <img src="images/TDD.jpg" alt="Test Driven Development flow" title="red green refactor" width="15"> - I am interested in learning more about test driven development, design patterns, and data structures
 
-#### <img src="images/Node.jpg" alt="Node.js logo" title="Node" width="15"> - I would like to learn more back-end frameworks such as Node.js and Flask
+#### <img src="images/Node.png" alt="Node.js logo" title="Node" width="15"> - I would like to learn more back-end frameworks such as Node.js and Flask
 
 <br />
 
@@ -22,8 +22,7 @@ FrameworksLibrariesEtc {
 
 <br />
 
-### [<img src="images/LinkedIn.jpg" alt="LinkedIn logo" title="LinkedIn" width="20">][LinkedIn] ▶ [LinkedIn][LinkedIn]
-### [<img src="images/pointlessbinary.jpg" alt="chalkboard with binary written on it" title="PointlessBinary" width="20">][portfolio] ▶ [Portfolio][portfolio]
+### [<img src="images/LinkedIn.jpg" alt="LinkedIn logo" title="LinkedIn" width="20">][LinkedIn] ▶ [LinkedIn][LinkedIn]  [<img src="images/pointlessbinary.jpg" alt="chalkboard with binary written on it" title="PointlessBinary" width="20">][portfolio] ▶ [Portfolio][portfolio]
 
 
 [portfolio]: https://kandelonius.github.io/Portfolio-SJK/
