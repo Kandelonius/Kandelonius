@@ -20,9 +20,7 @@ FrameworksLibrariesEtc {
 }
 ```
 
-<br />
-
-### [<img src="images/LinkedIn.jpg" alt="LinkedIn logo" title="LinkedIn" width="20">][LinkedIn] ▶ [LinkedIn][LinkedIn]  [<img src="images/pointlessbinary.jpg" alt="chalkboard with binary written on it" title="PointlessBinary" width="20">][portfolio] ▶ [Portfolio][portfolio]
+### [<img src="images/LinkedIn.jpg" alt="LinkedIn logo" title="LinkedIn" width="20">][LinkedIn] [LinkedIn][LinkedIn]     [<img src="images/pointlessbinary.jpg" alt="chalkboard with binary written on it" title="PointlessBinary" width="20">][portfolio] [Portfolio][portfolio]
 
 
 [portfolio]: https://kandelonius.github.io/Portfolio-SJK/
