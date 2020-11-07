@@ -3,7 +3,7 @@
 
 ### <img src="images/Spring.jpg" alt="Spring logo" title="Spring" width="15"> I am a java programmer who is primarily focusing on back-end web development
 
-#### <img src="images/TDD.jpg" alt="Test Driven Development flow" title="red green refactor" width="15"> - I am interested in learning more about test driven development, design patterns, and data structures
+#### <img src="images/TDD.jpg" alt="Test Driven Development flow" title="red green refactor" width="15"> - I am currently learning more about test driven development and computer networking(TCP, UDP) as well as design patterns, and data structures
 
 #### <img src="images/Node.png" alt="Node.js logo" title="Node" width="15"> - I would like to learn more back-end frameworks such as Node.js and Flask
 
