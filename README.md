@@ -13,11 +13,11 @@
 Languages {
     comfortable: [Java, JavaScript, Python, SQL, HTML, CSS],
     seen: [C#, Assembly, Smalltalk/Squeak]
-}
+};
 FrameworksLibrariesEtc {
     comfortable: [Spring, Maven, React, Redux, LESS, Junit],
     seen: [Gradle, Cypress, Jest]
-}
+};
 ```
 
 ### [<img src="images/LinkedIn.jpg" alt="LinkedIn logo" title="LinkedIn" width="20">][LinkedIn] [LinkedIn][LinkedIn]     [<img src="images/pointlessbinary.jpg" alt="chalkboard with binary written on it" title="PointlessBinary" width="20">][portfolio] [Portfolio][portfolio]
