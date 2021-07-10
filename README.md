@@ -1,4 +1,4 @@
-## Hello, my name is Shane Kaestner 🌇 
+## Hello, my name is Shane Kaestner 🌇
 [<img align="right" src="images/Online-Shane.jpg" alt="My picture" title="Shane" width="150" height="200" />][portfolio]
 
 ### <img src="images/Spring.jpg" alt="Spring logo" title="Spring" width="15"> I am a full stack web / Java programmer who is primarily focusing on back-end web development
@@ -11,11 +11,11 @@
 
 ```
 Languages {
-    comfortable: [Java, JavaScript, Python, SQL, HTML, CSS],
-    seen: [C#, Assembly, Smalltalk/Squeak]
+    comfortable: [Java, JavaScript, Python, SQL, C#, HTML, CSS],
+    seen: [Assembly, Smalltalk/Squeak]
 };
 FrameworksLibrariesEtc {
-    comfortable: [Spring, Maven, React, Redux, LESS, Junit],
+    comfortable: [Spring, Maven, React, Redux, LESS, Junit, Azure],
     seen: [Gradle, Cypress, Jest]
 };
 ```
