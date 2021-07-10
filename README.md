@@ -15,7 +15,7 @@ Languages {
     seen: [Assembly, Smalltalk/Squeak]
 };
 FrameworksLibrariesEtc {
-    comfortable: [Spring, Maven, React, Redux, LESS, Junit, Azure],
+    comfortable: [Spring, Maven, ASP.Net, React, Redux, LESS, Junit, Azure],
     seen: [Gradle, Cypress, Jest]
 };
 ```
